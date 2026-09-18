@@ -1,0 +1,369 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{none/global//global/global}
+    \entry{yasa2023overview}{article}{}
+      \name{author}{7}{}{%
+        {{hash=246ffc0b7beb5a8f5d50b8f5acb6aa9c}{%
+           family={Yasa},
+           familyi={Y\bibinitperiod},
+           given={Oncay},
+           giveni={O\bibinitperiod}}}%
+        {{hash=77f163d8d5a2d6e5aba32af354cecfb9}{%
+           family={Toshimitsu},
+           familyi={T\bibinitperiod},
+           given={Yasunori},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=d664f64120a647e3dbe345cf507ad5d8}{%
+           family={Michelis},
+           familyi={M\bibinitperiod},
+           given={Mike\bibnamedelima Y},
+           giveni={M\bibinitperiod\bibinitdelim Y\bibinitperiod}}}%
+        {{hash=1584799e31549616fadf4c64bd45b042}{%
+           family={Jones},
+           familyi={J\bibinitperiod},
+           given={Lewis\bibnamedelima S},
+           giveni={L\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=3230dd5f8d97ed4b70e1aba847b29f11}{%
+           family={Filippi},
+           familyi={F\bibinitperiod},
+           given={Miriam},
+           giveni={M\bibinitperiod}}}%
+        {{hash=b509a9244c787a3d2caea57fca4e17b6}{%
+           family={Buchner},
+           familyi={B\bibinitperiod},
+           given={Thomas},
+           giveni={T\bibinitperiod}}}%
+        {{hash=3540b3f631617c58436e086f8f64682b}{%
+           family={Katzschmann},
+           familyi={K\bibinitperiod},
+           given={Robert\bibnamedelima K},
+           giveni={R\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Annual Reviews}%
+      }
+      \strng{namehash}{b4e1c130e80aab447f52554e37c8c26d}
+      \strng{fullhash}{961d198aeab8ff693ed946cfd404d7d7}
+      \strng{bibnamehash}{b4e1c130e80aab447f52554e37c8c26d}
+      \strng{authorbibnamehash}{b4e1c130e80aab447f52554e37c8c26d}
+      \strng{authornamehash}{b4e1c130e80aab447f52554e37c8c26d}
+      \strng{authorfullhash}{961d198aeab8ff693ed946cfd404d7d7}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Annual Review of Control, Robotics, and Autonomous Systems}
+      \field{number}{1}
+      \field{title}{An overview of soft robotics}
+      \field{volume}{6}
+      \field{year}{2023}
+      \field{pages}{1\bibrangedash 29}
+      \range{pages}{29}
+    \endentry
+    \entry{whitesides2018soft}{article}{}
+      \name{author}{1}{}{%
+        {{hash=c5d1d0d8605d7e3ce566d8023eeddf4f}{%
+           family={Whitesides},
+           familyi={W\bibinitperiod},
+           given={George\bibnamedelima M},
+           giveni={G\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Wiley Online Library}%
+      }
+      \strng{namehash}{c5d1d0d8605d7e3ce566d8023eeddf4f}
+      \strng{fullhash}{c5d1d0d8605d7e3ce566d8023eeddf4f}
+      \strng{bibnamehash}{c5d1d0d8605d7e3ce566d8023eeddf4f}
+      \strng{authorbibnamehash}{c5d1d0d8605d7e3ce566d8023eeddf4f}
+      \strng{authornamehash}{c5d1d0d8605d7e3ce566d8023eeddf4f}
+      \strng{authorfullhash}{c5d1d0d8605d7e3ce566d8023eeddf4f}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Angewandte Chemie}
+      \field{number}{16}
+      \field{title}{Soft-Robotik}
+      \field{volume}{130}
+      \field{year}{2018}
+      \field{pages}{4336\bibrangedash 4353}
+      \range{pages}{18}
+    \endentry
+    \entry{rus2015design}{article}{}
+      \name{author}{2}{}{%
+        {{hash=f74192f92945701041a41bfa429ee111}{%
+           family={Rus},
+           familyi={R\bibinitperiod},
+           given={Daniela},
+           giveni={D\bibinitperiod}}}%
+        {{hash=04c07e2365c6cd6f998eb9d52aaa217d}{%
+           family={Tolley},
+           familyi={T\bibinitperiod},
+           given={Michael\bibnamedelima T},
+           giveni={M\bibinitperiod\bibinitdelim T\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Nature Publishing Group UK London}%
+      }
+      \strng{namehash}{0af3c55857668f38a3a306881ec8231c}
+      \strng{fullhash}{0af3c55857668f38a3a306881ec8231c}
+      \strng{bibnamehash}{0af3c55857668f38a3a306881ec8231c}
+      \strng{authorbibnamehash}{0af3c55857668f38a3a306881ec8231c}
+      \strng{authornamehash}{0af3c55857668f38a3a306881ec8231c}
+      \strng{authorfullhash}{0af3c55857668f38a3a306881ec8231c}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Nature}
+      \field{number}{7553}
+      \field{title}{Design, fabrication and control of soft robots}
+      \field{volume}{521}
+      \field{year}{2015}
+      \field{pages}{467\bibrangedash 475}
+      \range{pages}{9}
+    \endentry
+    \entry{ziherl}{book}{}
+      \name{author}{1}{}{%
+        {{hash=9dc6471f3ca99f23e3bd4b5928e72265}{%
+           family={Ziherl},
+           familyi={Z\bibinitperiod},
+           given={Primož},
+           giveni={P\bibinitperiod}}}%
+      }
+      \strng{namehash}{9dc6471f3ca99f23e3bd4b5928e72265}
+      \strng{fullhash}{9dc6471f3ca99f23e3bd4b5928e72265}
+      \strng{bibnamehash}{9dc6471f3ca99f23e3bd4b5928e72265}
+      \strng{authorbibnamehash}{9dc6471f3ca99f23e3bd4b5928e72265}
+      \strng{authornamehash}{9dc6471f3ca99f23e3bd4b5928e72265}
+      \strng{authorfullhash}{9dc6471f3ca99f23e3bd4b5928e72265}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Mehanika kontinuov, zapiski predavanj}
+      \field{year}{2026}
+    \endentry
+    \entry{wiki}{online}{}
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
+      \field{labeltitlesource}{title}
+      \field{title}{Neo-Hookean model}
+      \field{urlyear}{2026}
+      \field{year}{2023}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://en.wikipedia.org/wiki/Neo-Hookean_solid
+      \endverb
+      \verb{url}
+      \verb https://en.wikipedia.org/wiki/Neo-Hookean_solid
+      \endverb
+    \endentry
+    \entry{elango2015review}{article}{}
+      \name{author}{2}{}{%
+        {{hash=9d9525869d9bcab8c9989af43910e44c}{%
+           family={Elango},
+           familyi={E\bibinitperiod},
+           given={N},
+           giveni={N\bibinitperiod}}}%
+        {{hash=c4c0e6b8d59a316455d40f2370d7fe4e}{%
+           family={Faudzi},
+           familyi={F\bibinitperiod},
+           given={Ahmad\bibnamedelimb Athif\bibnamedelima Mohd},
+           giveni={A\bibinitperiod\bibinitdelim A\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{68c78013e5e5d918405ec669ab852427}
+      \strng{fullhash}{68c78013e5e5d918405ec669ab852427}
+      \strng{bibnamehash}{68c78013e5e5d918405ec669ab852427}
+      \strng{authorbibnamehash}{68c78013e5e5d918405ec669ab852427}
+      \strng{authornamehash}{68c78013e5e5d918405ec669ab852427}
+      \strng{authorfullhash}{68c78013e5e5d918405ec669ab852427}
+      \field{sortinit}{7}
+      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{The International Journal of Advanced Manufacturing Technology}
+      \field{number}{5}
+      \field{title}{A review article: investigations on soft materials for soft robot manipulations}
+      \field{volume}{80}
+      \field{year}{2015}
+      \field{pages}{1027\bibrangedash 1037}
+      \range{pages}{11}
+    \endentry
+    \entry{goyal1990planar}{report}{}
+      \name{author}{3}{}{%
+        {{hash=185880223b24be67118e203ef528c5b7}{%
+           family={Goyal},
+           familyi={G\bibinitperiod},
+           given={Suresh},
+           giveni={S\bibinitperiod}}}%
+        {{hash=d46fc6360685bf7f5087a30f34da9aa4}{%
+           family={Ruina},
+           familyi={R\bibinitperiod},
+           given={Andy},
+           giveni={A\bibinitperiod}}}%
+        {{hash=295ca7e857db37ba0ede8e9d1048350a}{%
+           family={Papadopoulos},
+           familyi={P\bibinitperiod},
+           given={Jim},
+           giveni={J\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {Cornell University}%
+      }
+      \strng{namehash}{77bca935f50d5c55e812f268b078506c}
+      \strng{fullhash}{77bca935f50d5c55e812f268b078506c}
+      \strng{bibnamehash}{77bca935f50d5c55e812f268b078506c}
+      \strng{authorbibnamehash}{77bca935f50d5c55e812f268b078506c}
+      \strng{authornamehash}{77bca935f50d5c55e812f268b078506c}
+      \strng{authorfullhash}{77bca935f50d5c55e812f268b078506c}
+      \field{sortinit}{8}
+      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Planar Sliding With Dry Friction 1: Limit Surface and Moment Function}
+      \field{type}{techreport}
+      \field{year}{1990}
+    \endentry
+    \entry{elango2011analysis}{article}{}
+      \name{author}{2}{}{%
+        {{hash=ec7b60101683112d451f898552448135}{%
+           family={Elango},
+           familyi={E\bibinitperiod},
+           given={Natarajan},
+           giveni={N\bibinitperiod}}}%
+        {{hash=b7f2c5ad8155531ec286f8709ae66303}{%
+           family={Marappan},
+           familyi={M\bibinitperiod},
+           given={R},
+           giveni={R\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{dc4072630a07d5bc7180adcc9f0ec643}
+      \strng{fullhash}{dc4072630a07d5bc7180adcc9f0ec643}
+      \strng{bibnamehash}{dc4072630a07d5bc7180adcc9f0ec643}
+      \strng{authorbibnamehash}{dc4072630a07d5bc7180adcc9f0ec643}
+      \strng{authornamehash}{dc4072630a07d5bc7180adcc9f0ec643}
+      \strng{authorfullhash}{dc4072630a07d5bc7180adcc9f0ec643}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{The International Journal of Advanced Manufacturing Technology}
+      \field{number}{5}
+      \field{title}{Analysis on the fundamental deformation effect of a robot soft finger and its contact width during power grasping}
+      \field{volume}{52}
+      \field{year}{2011}
+      \field{pages}{797\bibrangedash 804}
+      \range{pages}{8}
+    \endentry
+    \entry{onal2013autonomous}{article}{}
+      \name{author}{2}{}{%
+        {{hash=465fd0804dba0ea4fec081c4b0e930ba}{%
+           family={Onal},
+           familyi={O\bibinitperiod},
+           given={Cagdas\bibnamedelima D},
+           giveni={C\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+        {{hash=f74192f92945701041a41bfa429ee111}{%
+           family={Rus},
+           familyi={R\bibinitperiod},
+           given={Daniela},
+           giveni={D\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {IOP Publishing}%
+      }
+      \strng{namehash}{4a21c09da337eaff55a37fefc0dcaa43}
+      \strng{fullhash}{4a21c09da337eaff55a37fefc0dcaa43}
+      \strng{bibnamehash}{4a21c09da337eaff55a37fefc0dcaa43}
+      \strng{authorbibnamehash}{4a21c09da337eaff55a37fefc0dcaa43}
+      \strng{authornamehash}{4a21c09da337eaff55a37fefc0dcaa43}
+      \strng{authorfullhash}{4a21c09da337eaff55a37fefc0dcaa43}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Bioinspiration \& biomimetics}
+      \field{number}{2}
+      \field{title}{Autonomous undulatory serpentine locomotion utilizing body dynamics of a fluidic soft robot}
+      \field{volume}{8}
+      \field{year}{2013}
+      \field{pages}{026003}
+      \range{pages}{1}
+    \endentry
+    \entry{cianchetti2015bioinspired}{article}{}
+      \name{author}{5}{}{%
+        {{hash=fd7b31f315b60515f844287e859c6453}{%
+           family={Cianchetti},
+           familyi={C\bibinitperiod},
+           given={Matteo},
+           giveni={M\bibinitperiod}}}%
+        {{hash=7a108efbef59b065c68cd929f3e9df02}{%
+           family={Calisti},
+           familyi={C\bibinitperiod},
+           given={Marcello},
+           giveni={M\bibinitperiod}}}%
+        {{hash=8cd03fcf943a6ab32a91af710f6f39a2}{%
+           family={Margheri},
+           familyi={M\bibinitperiod},
+           given={Laura},
+           giveni={L\bibinitperiod}}}%
+        {{hash=84200ac09b5ec549545d5f0089ff2139}{%
+           family={Kuba},
+           familyi={K\bibinitperiod},
+           given={Michael},
+           giveni={M\bibinitperiod}}}%
+        {{hash=870accaf40229dde2e42ab4f1c13ba43}{%
+           family={Laschi},
+           familyi={L\bibinitperiod},
+           given={Cecilia},
+           giveni={C\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {IOP Publishing}%
+      }
+      \strng{namehash}{536508fe000f360e469bb6e48792b081}
+      \strng{fullhash}{bbc0ac92352e9d32e79fdf4f900bc8bb}
+      \strng{bibnamehash}{536508fe000f360e469bb6e48792b081}
+      \strng{authorbibnamehash}{536508fe000f360e469bb6e48792b081}
+      \strng{authornamehash}{536508fe000f360e469bb6e48792b081}
+      \strng{authorfullhash}{bbc0ac92352e9d32e79fdf4f900bc8bb}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Bioinspiration \& biomimetics}
+      \field{number}{3}
+      \field{title}{Bioinspired locomotion and grasping in water: the soft eight-arm OCTOPUS robot}
+      \field{volume}{10}
+      \field{year}{2015}
+      \field{pages}{035003}
+      \range{pages}{1}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+

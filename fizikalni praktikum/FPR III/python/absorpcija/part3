@@ -1,0 +1,18 @@
+import numpy as np
+import matplotlib.pyplot as plt
+
+s, N, n, A = np.loadtxt("3.csv", delimiter=",", unpack=True)
+y=n/50
+A = A - 0.384
+print(A)
+
+
+fig, ax = plt.subplots()
+
+plt.xlabel(r"$s[\frac{mg}{cm^2}]$")
+plt.ylabel(r'$A_{\beta}[s^{-1}]$')
+
+ax.errorbar(s, A, yerr=y, capsize=2, marker="o", ls="")
+ax.grid(True)
+
+plt.show()
