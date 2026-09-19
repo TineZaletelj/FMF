@@ -1,1 +1,1 @@
-Za mat1 so na voljo samo zapuski vaj. Za ustni izpit sem se učil iz Janezove skripte.
+Za mat1 so na voljo samo zapiski vaj. Za ustni izpit sem se učil iz Janezove skripte.
